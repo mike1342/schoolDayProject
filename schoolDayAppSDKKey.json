@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "school-day-app",
+  "private_key_id": "58aee60ebe2c6fc5cded469bccd1ce7b9e3a300b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDddDFXS+GUGYEx\nJTDwoTpx7rrUOsbadg6VXXmtHP7e6UgP6LgHW+Kz5aAGtFHe5Zwdgr13Cxa+gO/f\nQdaqNHRqYUbLNak22r3GsJKsvArHWWRGLJa30DRhrpb4nXSPJmB4S9N98LskXidO\n8hLv78ITiSTVmaXe/gZqvaMNXNydxurUoxpcH5gGSJK/G1l0QMVQFZs01/cVPKpl\n4EBqMp4Kwv2x6TNPh87sfxGOAODzv8PtkSAaTvH6xcggg8dje5U3I7xbMsZi64Ta\ncUm3s2g82ewb+4eLilB892wmK7Yj6ECAUbl8+4obIDDD6ogrt2+a4ECT9JJJKC7s\nx3Xk0vbbAgMBAAECggEABkl+zFBE/Qcx8F4/Vgv0J9Kz25Ce0qO+/qVi7fPaL72G\nitHiX6GCylt+wCuTlqg4I9JXyxU1teTdN1GcMZFAEnRLWTuSkt8bVWFWWLCuy0Gr\ncIT78zrMmE70Z3+44aBT5TZp47QKhbOZAOT4fd1cFvsYYGp2fhU1XQegC6ITFVuV\nDBIPUpJ2xyaLyWMQbnUuQQNTsi9GDalmjl2d23tpY0B7jc9dx/VNDol2A2X2m2Hn\n9vXX0kwCTd3Zx3gxu9vs3Wi2uEnLxFFS3QG/VDm+rMZ+oiqowrurgnFc6jxvOd60\nRlnAxIrDsiO0YEHufReKbr1oRbCSL0lvCmbeyln8iQKBgQDvjpTp+OyJzBpTucdJ\nMnup16IYkBIZC14cRAB+Cz4m01pyJPth/KA3aytEhcQshvknQb1c3s95kPXQR7up\nig7nN6lhyj3a3XyOvs3qkTcIefSHwnrQIyOTuyyOZhoV4uLMBs3/eksUJxMvaNND\nVIiVgyU0wYc8WNJ46QLQ2cT6LwKBgQDsp4JtD2+9WY/HU6M68rWESZc2tMPacU1X\nGdexfSH4itVSr4CnrAYwlSbQ2VmD8hXC1FwzC9wtqf2WMkYe/2s0RHDluXmMmJLR\n52FIQlLrCnl+ICR8cBMasB2sdzVH4RpnXlm3xLpjuNwI7bEoMOpJlaXF6bONKNOk\ns3SRgJ1fFQKBgQDG8lezlBoFOm8m12Os43MWE1G4KnYNPIaU3Ni31Ohx4Bb+Mr5e\nmyoHvEX7q0fHXvSuaIc2CIivwfaTWe99Fn3YAj72Srph+I1IEyf5xU26CWZOFPJf\nxr72In0Xaa4CPSHzJTeRE2QkwWrKdbj18s9Xs8mDbbG9KVrqNUE0Z5aR2wKBgQDn\nrL0UQ05ikfEdc5WSudRVYy2zkpdBnDXYlSYBTb0Z8eAQiFtsyg1tNja/smfdsfr3\ntqlkF7I+yfHFPgZDhkzO6EmVu1Nw/lSNRPSJptRB4Qk7HgBaCeXJ9Ku4ESOJ8KbG\nlylBrEfEJE7UNs19yRUzYFrfO4BZKqS20i/F2aE2WQKBgApYDs7F10wQogg7RH6R\nmGCYEJHv1R2Mg6tx+9hGVL2WqqECpi2a+wH8QOYfryh5Vo8AHCGJ6H69gtsIGZTW\nGzBHzEm5Gt+sFa8EqxYFP0uvLxrWMI6un2QAAXpX45K65FmcZwg/utJZycQYhSId\ncQRQj5qfqT7tUpzQfTVV0unE\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3lkz3@school-day-app.iam.gserviceaccount.com",
+  "client_id": "118158333152210426080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3lkz3%40school-day-app.iam.gserviceaccount.com"
+}
